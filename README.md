@@ -1,3 +1,4 @@
+I could not upload all the files because of the limit in the github but i do uploaded the necessary files for the project
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
